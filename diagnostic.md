@@ -8,7 +8,7 @@ Record your responses inside the fenced code blocks below each question.
     ```md
     The main task to perform in the application router is
     configuering routes using this.route(''), so the router knows
-    which route to point to at the correct time. The main task in an
+    which view-state to show for that given route. The main task in an
     Ember route is to provide a model hook which returns information
     similar to the structure of JSON.
     ```
